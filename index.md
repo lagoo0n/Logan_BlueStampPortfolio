@@ -41,7 +41,7 @@ The most important part of this whole project is to build the car and getting th
 Here's where you'll put images of your schematics. [Tinkercad](https://www.tinkercad.com/blog/official-guide-to-tinkercad-circuits) and [Fritzing](https://fritzing.org/learning/) are both great resoruces to create professional schematic diagrams, though BSE recommends Tinkercad becuase it can be done easily and for free in the browser. 
 
 ![Motors](first.png)
-![image]()
+![image](second.png)
 ![image]()
 ![image]()
 ![image]()
