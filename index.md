@@ -271,8 +271,6 @@ right_shift(0,200,0,200); //right diagonal back
      stop_Stop();
 	 delay(1000);
 }
-
-}
 ```
 
 # Bill of Materials
