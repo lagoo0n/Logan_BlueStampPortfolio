@@ -44,7 +44,7 @@ Here's where you'll put images of your schematics. [Tinkercad](https://www.tinke
 ![Motors](first.png)
 ![image](second.png)
 ![image](third.png)
-![image]()
+![image](fourth.png)
 ![image]()
 ![image]()
 
