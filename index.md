@@ -22,6 +22,7 @@ For your final milestone, explain the outcome of your project. Key details to in
 
 # Second Milestone
 For your second milestone, explain what you've worked on since your previous milestone. You can highlight:
+For my second milestone, I decided to implement a bluetooth device into my car in order for it to be remotely controlled. 
 - Technical details of what you've accomplished and how they contribute to the final goal
 - What has been surprising about the project so far
 - Previous challenges you faced that you overcame
