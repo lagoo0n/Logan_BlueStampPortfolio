@@ -7,7 +7,7 @@ Replace this text with a brief description (2-3 sentences) of your project. This
 
 **Replace the BlueStamp logo below with an image of yourself and your completed project. Follow the guide [here](https://tomcam.github.io/least-github-pages/adding-images-github-pages-site.html) if you need help.**
 
-![Headstone Image](logo.svg)
+![Headstone Image](robotcar.jpg)
   
 # Final Milestone
 For my final milestone, I will attach a buzzer and LED light onto my already finished car that would make a buzzing sound and also light up once it gets too close to an object. The bigest challenge for this was having to reconfigure the code as well as working with the parts I was given. I did not get all the parts that I needed in order to actually finish building this modification, so I had to work with what I had. This helped me problem solve while using the arduino to actually finish coding the attachment I had wanted to make. In the future I would hope to continue to work on projects similar to this one and carry the knowledge that I have gained while being able to use many different resources I had. This includes GitHub, Arduino, as well as basic fundamentals of putting robots together.
