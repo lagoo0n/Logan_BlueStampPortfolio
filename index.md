@@ -12,16 +12,12 @@ Replace this text with a brief description (2-3 sentences) of your project. This
 # Final Milestone
 For my final milestone, I will attach a buzzer and LED light onto my already finished car that would make a buzzing sound and also light up once it gets too close to an object. The bigest challenge for this was having to reconfigure the code as well as working with the parts I was given. I did not get all the parts that I needed in order to actually finish building this modification, so I had to work with what I had. This helped me problem solve while using the arduino to actually finish coding the attachment I had wanted to make. In the future I would hope to continue to work on projects similar to this one and carry the knowledge that I have gained while being able to use many different resources I had. This includes GitHub, Arduino, as well as basic fundamentals of putting robots together.
 
-**Don't forget to replace the text below with the embedding for your milestone video. Go to Youtube, click Share -> Embed, and copy and paste the code to replace what's below.**
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/F7M7imOVGug" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4YpHRfEwzKc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 # Second Milestone
 After finishing building my car, I wanted to have the ability to actually control the movements. I did this by implementing the Bluetooth device provided in the kit. After plugging in the bluetooth connecter, all I had to do was hook it up to the board and then plug the arduino in and upload the code. Then I was able to actually use my phone by connecting the bluetooth on the robot to the bluetooth on my phone. I was then able to move the car in the northeast, northwest, southeast, and southwest direction and control whether the motor is on or off. It has been surprising how much I have been able to accomplish and the many different features I could add to the robot. Using an arduino gives me a lot of freedom to implement many features. For my final milestone, I am planning on modifying the bot based on its new ability to move in any direction that I choose. 
 
-**Don't forget to replace the text below with the embedding for your milestone video. Go to Youtube, click Share -> Embed, and copy and paste the code to replace what's below.**
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VAmNlER5Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lcHz_vlNtDk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 # First Milestone
 
