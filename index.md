@@ -1,5 +1,5 @@
-# Omni Wheel Robotic Car
-The Omni wheel car is a multidirectional robot car, with a built-in Arduino system. This can be used to mak many modifications to the car using the many different sensors that come with the kit but can also be bought online.
+# Omni Wheel Rover
+The Omni wheel rover is a multidirectional robot car, with a built-in Arduino system. This can be used to mak many modifications to the car using the many different sensors that come with the kit but can also be bought online.
 
 | **Engineer** | **School** | **Area of Interest** | **Grade** |
 |:--:|:--:|:--:|:--:|
