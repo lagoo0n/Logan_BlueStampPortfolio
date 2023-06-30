@@ -27,7 +27,7 @@ The most important part of this whole project is to build the car and get the Om
 
 
 # Schematics 
-
+Sourced from Osyoo Mecanum Wheel Robot Kit
 ![Motors](first.png)
 ![image](second.png)
 ![image](third.png)
