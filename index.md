@@ -5,7 +5,7 @@ The Omni wheel rover is a multidirectional robot car, with a built-in Arduino sy
 |:--:|:--:|:--:|:--:|
 | Logan C. | Dublin High School | Electrical Engineering | Incoming Junior
 
-![Headstone Image](robotcar.jpg)
+![Headstone Image](rover.jpg)
   
 # Final Milestone
 For my final milestone, I will attach a buzzer and LED light to my already finished car that would make a buzzing sound and also light up once it gets too close to an object. The biggest challenge for this was having to reconfigure the code as well as working with the parts I was given. I did not get all the parts that I needed in order to actually finish building this modification, so I had to work with what I had. This helped me problem-solve while using the Arduino to actually finish coding the attachment I had wanted to make. 
